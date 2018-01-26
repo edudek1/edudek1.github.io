@@ -1,0 +1,26 @@
+body {
+  background-color: #00bcd417
+}
+.headers {
+  background-color: green
+}
+.header {
+  color: red;
+}
+img {
+  width:300px
+}
+th{
+  padding-left: 100px;
+  padding-right: 100px;
+  border:solid black 1px
+}
+td{
+  padding-left: 100px;
+  padding-right: 100px;
+  border: solid gray 0.5px
+}
+table{
+  border-collapse: collapse;
+  text-align: center;
+}
