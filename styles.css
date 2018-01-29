@@ -1,26 +1,17 @@
 body {
   background-color: #00bcd417
 }
-.headers {
-  background-color: green
+
+.jumbotron img{
+  height 10px
 }
-.header {
-  color: red;
+
+.carousel {
+  width:500px;
+  height:auto;
 }
-img {
-  width:300px
-}
-th{
-  padding-left: 100px;
-  padding-right: 100px;
-  border:solid black 1px
-}
-td{
-  padding-left: 100px;
-  padding-right: 100px;
-  border: solid gray 0.5px
-}
-table{
-  border-collapse: collapse;
-  text-align: center;
+
+div.c-wrapper{
+  width:30%;
+  margin: auto;
 }
