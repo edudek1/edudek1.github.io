@@ -22,12 +22,10 @@ div.c-wrapper{
 }
 
 .engagement1{
-  height: 1000px;
-  width: 933px;
+  max-height: 100%;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
 }
 
 .hotel{
