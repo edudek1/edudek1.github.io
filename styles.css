@@ -7,11 +7,40 @@ body {
 }
 
 .carousel {
-  width:500px;
+  width:1000px;
   height:auto;
 }
 
 div.c-wrapper{
-  width:30%;
+  width:50%;
   margin: auto;
+}
+
+.amazon.png img{
+  width 250px;
+  height: auto;
+}
+
+.engagement1{
+  height: 1000px;
+  width: 933px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.hotel{
+  width: 750px
+}
+
+.list{
+  text-align: center;
+  list-style: inside;
+}
+
+.title{
+  font-weight: bold;
+  font-size: 75px;
+  color: Blue
 }
